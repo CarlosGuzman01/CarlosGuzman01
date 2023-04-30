@@ -1,4 +1,4 @@
-### [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosGuzman01)](https://git.io/streak-stats)
+### [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosGuzman01&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
 **CarlosGuzman01/CarlosGuzman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
