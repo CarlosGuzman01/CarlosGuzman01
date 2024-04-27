@@ -1,8 +1,8 @@
-My Github stats:
+# My Github stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=CarlosGuzman01&theme=dark)](https://git.io/streak-stats)
 
 
-My leetcode stats:
+#  My Leetcode stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/carlosguzmantejeda13?theme=dark&font=Cuprum&ext=heatmap)
 <!--
 **CarlosGuzman01/CarlosGuzman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
